@@ -1,0 +1,2 @@
+# odin
+samsungodin.com mirror
