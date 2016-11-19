@@ -3,7 +3,7 @@ samsungodin.com mirror
 
 Changelog
 <ul>
-<li>Odin 3 v3.12.3
+<li>Odin 3 v3.12.3 &nbsp; <a href="https://virustotal.com/en-gb/file/0ac5f3f796fdb6ad7a25b2df110ee666c4432461d7865e06a9559b5a269d1eb7/analysis/1479559517/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.12.3.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     This is the latest version of Odin and it was released in January of 2016.
@@ -16,7 +16,7 @@ Changelog
     </li>
   </ul>
 </li>
-<li>Odin v3.11.1
+<li>Odin v3.11.1 &nbsp; <a href="https://virustotal.com/en-gb/file/e5388090951e3ebe2558fab874640936f855215dad40a8c66184f628ae365646/analysis/1479559540/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.11.1.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     Added  improved support files for Flash HOME_CSC _... Galaxy S7, S7 edge (no file _... HOME_CSC wipe data, wipe data file _... CSC)
@@ -26,7 +26,7 @@ Changelog
     </li>
     </ul>
 </li>
-<li>Odin v3.10.7
+<li>Odin v3.10.7 &nbsp; <a href="https://virustotal.com/en-gb/file/8a20ba28a84a9df4de2fa3d790e1135f22b9a8935b87f26c5904cf368eb8bf5f/analysis/1479559585/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.10.7.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     RTN for Sprint has added.
@@ -39,7 +39,7 @@ Changelog
     </li>
   </ul>
 </li>
-<li>Odin v3.10.6
+<li>Odin v3.10.6 &nbsp; <a href="https://virustotal.com/en-gb/file/666e92de87a3881ba19a99d97543bec8be73f68a5ec35f14e8ea7845c5af582a/analysis/1479559598/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.10.6.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     Added UFS Support device type.
@@ -87,7 +87,7 @@ Changelog
     </li>
   </ul>
 </li>
-<li>Odin V3.10
+<li>Odin V3.10 &nbsp; <a href="https://virustotal.com/en-gb/file/1d0d8aa6acd9239ea342c78babbd5823e4d316381aefd2ea5ec49f7862363d03/analysis/1479559655/" target="_blank" title="See VirusTotal Scan-Result for [Odin_3.10.0.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     Improved interface with fixes to some issues.
@@ -97,7 +97,7 @@ Changelog
     </li>
   </ul>
 </li>
-<li>Odin v3.09.5
+<li>Odin v3.09.5 &nbsp; <a href="https://virustotal.com/en-gb/file/d27353ad6754a1cc207a10d9fac2ee6818d45decc57eeadb23ea8f6b7c4c3f5a/analysis/1479559616/" target="_blank" title="See VirusTotal Scan-Result for [Odin_v3.09.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     Support SM-R350 (4MB xmit size for device type PARTITION_DEV_TYPE_NOR)
@@ -114,7 +114,7 @@ Changelog
     </li>
   </ul>
 </li>
-<li>Odin V1.85
+<li>Odin V1.85 &nbsp; <a href="https://virustotal.com/en-gb/file/d27353ad6754a1cc207a10d9fac2ee6818d45decc57eeadb23ea8f6b7c4c3f5a/analysis/1479559616/" target="_blank" title="See VirusTotal Scan-Result for [Odin_v1.85.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
     If you own old device and have some compatibility issues with latest updated version , try this one.
