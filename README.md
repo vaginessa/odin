@@ -1,5 +1,4 @@
 # odin
-Data from http://samsungodin.com/download/ and https://androidmtk.com/download-odin-downloader-versions
 
 Changelog
 <ul>
@@ -135,7 +134,6 @@ Changelog
 
 <hr/>
 
-
 <ul>
 <li>What is Odin - https://en.wikipedia.org/wiki/Odin_(firmware_flashing_software)</li>
 <li>Buttons:
@@ -157,3 +155,13 @@ It is alway best to use AP (PDA), even for a single component,
 Use Linux (or Cygwin) command: `tar -H ustar -c modem.bin >MODEM_I9500.tar` following with `md5sum -t MODEM_I9500.tar >>MODEM_I9500.tar` and `mv MODEM_I9500.tar MODEM_I9500.tar.md5` (don't use it from Windows!)
 Here is an example: <a href="http://icompile.eladkarako.com/clockwork-recovery-img-to-tar-md5/">iCompile - Clockwork Recovery img to tar.md5</a>
 </li>
+<li>
+<pre>
+Included Data from:
+- samsungodin.com/download/ (changelog and downloads)
+- androidmtk.com/download-odin-downloader-versions (recent)
+Please Avoid:
+- odindownload.com
+</pre>
+</li>
+</ul>
