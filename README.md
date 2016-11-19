@@ -1,12 +1,22 @@
 # odin
-samsungodin.com mirror
+Data from http://samsungodin.com/download/ and https://androidmtk.com/download-odin-downloader-versions
 
 Changelog
 <ul>
+<li>Odin 3 v3.12.5 &nbsp; <a href="https://www.virustotal.com/en-gb/file/f6e562be4db80a606c89580456355b5238cff09188f34ddd98fce50240349eff/analysis/1479596158/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.12.5.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
+  <ul>
+    <li>
+    released in November 11, 2016.
+    </li>
+    <li>
+    [no changelog data for now...]
+    </li>
+  </ul>
+</li>
 <li>Odin 3 v3.12.3 &nbsp; <a href="https://virustotal.com/en-gb/file/0ac5f3f796fdb6ad7a25b2df110ee666c4432461d7865e06a9559b5a269d1eb7/analysis/1479559517/" target="_blank" title="See VirusTotal Scan-Result for [Odin3_v3.12.3.zip]"><img height="16" width="16" src="https://virustotalcloud.appspot.com/static/img/favicon.ico"/></a>
   <ul>
     <li>
-    This is the latest version of Odin and it was released in January of 2016.
+    released in January of 2016.
     </li>
     <li>
     fix the error of flashing for Galaxy S7/S7e USA model (AT&T, T-mobile)
